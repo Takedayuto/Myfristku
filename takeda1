@@ -1,0 +1,4 @@
+inclued<stidio.h>
+int main(){
+printf("hello world");
+return 0;}
